@@ -2,6 +2,6 @@
 quando ele pede para por exemplo adicionar uma anotação de um link de onde baixar  o Git
 
 
-colocando aqui o link: ( https://git-scm.com/downloads)
+[colocando aqui o link:] ( https://git-scm.com/downloads)
 
 git Bash é um terminal extendido para otimizar o uso do Git.
